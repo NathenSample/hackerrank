@@ -4,4 +4,7 @@ include 'TimeConversion'
 include 'LonelyInteger'
 include 'DiagonalDifference'
 include 'CountingSort'
+include 'ZigZag'
+include 'TowerBreakers'
+include 'CaesarCipher'
 
